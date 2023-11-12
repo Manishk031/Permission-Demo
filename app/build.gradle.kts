@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.zoro.permissiondemo"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.zoro.permissiondemo"
